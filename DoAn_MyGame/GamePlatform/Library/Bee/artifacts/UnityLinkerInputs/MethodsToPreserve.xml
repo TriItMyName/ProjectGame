@@ -1,0 +1,70 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+			<method name="RestartGame"/>
+		</type>
+		<type fullname="LevelMenu">
+			<method name="OnpenLevel"/>
+			<method name="OnpenLevel"/>
+			<method name="OnpenLevel"/>
+			<method name="OnpenLevel"/>
+			<method name="OnpenLevel"/>
+			<method name="OnpenLevel"/>
+		</type>
+		<type fullname="LevelSelectManager">
+			<method name="OnCilckBack"/>
+		</type>
+		<type fullname="Menu">
+			<method name="PlayGame"/>
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="PauseMenu">
+			<method name="Home"/>
+			<method name="Home"/>
+			<method name="Home"/>
+			<method name="Home"/>
+			<method name="Home"/>
+			<method name="Home"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Pause"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+			<method name="Restart"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+			<method name="Resume"/>
+		</type>
+	</assembly>
+</linker>

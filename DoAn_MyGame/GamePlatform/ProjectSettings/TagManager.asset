@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - GetDame
+  - Coin
+  - Trap
+  - Bullet
+  - Key
+  - Water
+  - CheckPoint
+  - Boss
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Key
+  - Enemy
+  - Trap
+  - Wall
+  - OneWayPlatForm
+  - Trampoline
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround1
+    uniqueID: 2036622567
+    locked: 0
+  - name: BackGround2
+    uniqueID: 3343886713
+    locked: 0
+  - name: BackGround3
+    uniqueID: 3118582591
+    locked: 0
+  - name: BackGround4
+    uniqueID: 3419606451
+    locked: 0
+  - name: BackGround5
+    uniqueID: 1103806257
+    locked: 0
+  - name: OneWayPlatForm
+    uniqueID: 443076953
+    locked: 0
+  - name: ForeGround
+    uniqueID: 65076809
+    locked: 0
+  - name: Ground
+    uniqueID: 3153697463
+    locked: 0
+  - name: Wall
+    uniqueID: 1612580703
+    locked: 0
+  - name: Water
+    uniqueID: 859618049
+    locked: 0
+  - name: Item
+    uniqueID: 90450141
+    locked: 0
+  - name: Key
+    uniqueID: 4274854347
+    locked: 0
+  - name: Enemy
+    uniqueID: 3194983591
+    locked: 0
+  - name: Boos
+    uniqueID: 1647343635
+    locked: 0
+  - name: Player
+    uniqueID: 424745033
+    locked: 0
+  - name: UI
+    uniqueID: 464727015
+    locked: 0
+  m_RenderingLayers:
+  - Default

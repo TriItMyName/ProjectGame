@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyGame\\GamePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\enemy_rino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_rino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\healthbar_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar_boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\bossspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\canvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\checkbossgetdame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkbossgetdame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\checkjumpplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkjumpplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\checkonplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkonplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\checkwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\enemy_plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_plant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|d:\\mygame\\gameplatform\\assets\\scripts\\parallaxbackgroundxonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxbackgroundxonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\spikedballtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikedballtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\posfollwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\posfollwer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\trapfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trapfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|D:\\MyGame\\GamePlatform\\assets\\scripts\\trapsaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C43701-BF08-E070-AC59-3B9E6142EDDF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trapsaw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy_Rino.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\Enemy_Rino.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Rino.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\Enemy_Rino.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Rino.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwGkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:56:15.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:49:18.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthBar_Boss.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\HealthBar_Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar_Boss.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\HealthBar_Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar_Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:49:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossSpawn.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BossSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossSpawn.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BossSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:48:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CheckJumpPlayer.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckJumpPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckJumpPlayer.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckJumpPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckJumpPlayer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:47:33.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerCollision.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCollision.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PlayerCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCollision.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:52:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwP0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:37:57.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckBossGetDame.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckBossGetDame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckBossGetDame.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckBossGetDame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckBossGetDame.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:52:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasManager.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CanvasManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasManager.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CanvasManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:54:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BossController.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossController.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:52:47.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CheckOnPlatform.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckOnPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckOnPlatform.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckOnPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckOnPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:47:34.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulletScript.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BulletScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletScript.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\BulletScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:35:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\DropDown.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropDown.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\DropDown.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropDown.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:33:08.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckWall.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CheckWall.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\CheckWall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CheckWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:47:29.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Enemy_Plant.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\Enemy_Plant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Plant.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\Enemy_Plant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Plant.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:32:23.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParallaxBackgroundXOnly.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\ParallaxBackgroundXOnly.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxBackgroundXOnly.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\ParallaxBackgroundXOnly.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParallaxBackgroundXOnly.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:30:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T02:30:39.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:56:34.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PosFollwer.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PosFollwer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PosFollwer.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\PosFollwer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PosFollwer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:37:51.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpikedBallTrap.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\SpikedBallTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpikedBallTrap.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\SpikedBallTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpikedBallTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:22:12.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrapSaw.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\TrapSaw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrapSaw.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\TrapSaw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrapSaw.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:14:16.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TrapFire.cs",
+              "DocumentMoniker": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\TrapFire.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrapFire.cs",
+              "ToolTip": "D:\\MyGame\\GamePlatform\\Assets\\Scripts\\TrapFire.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrapFire.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T01:14:15.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
